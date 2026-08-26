@@ -1,60 +1,64 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=M.%20Mohamed%20Nadheem&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Agentic%20AI%20%7C%20Voice%20AI&descAlignY=60&descSize=18" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=M.%20Mohamed%20Nadheem&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Agentic%20AI%20%26%20Multi-Tenant%20Systems&descAlignY=62&descSize=16" width="100%"/>
+M. Mohamed Nadheem
 
+Software Developer • Agentic AI • Voice AI • Backend Engineering
+
+Building practical AI systems, intelligent workflows, and real-time applications.
+
+<p>
+  <a href="https://github.com/nadheemcr7">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:mdnadheem7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-nadheem/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 </div>
+
+⸻
+
+👨‍💻 About Me
+
+I’m a B.Tech Computer Science & Engineering student focused on building software with AI, agent orchestration, RAG, backend systems, and real-time voice applications.
+
+I enjoy working at the intersection of software engineering and AI — turning complex workflows into reliable, usable products.
+
+* 🎓 B.Tech CSE — B.S. Abdur Rahman Crescent Institute of Science & Technology
+* 📍 India
+* 🤖 Interested in Agentic AI and intelligent automation
+* 🎙️ Exploring real-time Voice AI systems
+* 📚 Currently deepening my knowledge of agent orchestration and AI development tools
+* 🚀 Interested in building production-oriented AI applications
+
+⸻
+
+🧠 What I Work With
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+agent+orchestration+layers+on+AgentScope;Shipping+RAG+pipelines+%2B+MCP+servers;Real-time+Voice+AI+with+LiveKit+%2B+Deepgram;B.Tech+CSE+%40+B.S.+Abdur+Rahman+Crescent+IST)](https://git.io/typing-svg)
+Area	Technologies
+🤖 Agentic AI	LangGraph · OpenAI Agents SDK · MCP · AgentScope · RAG
+🎙️ Voice AI	LiveKit · Deepgram · SIP / VoIP
+🐍 Backend	Python · FastAPI · Supabase · PostgreSQL
+🌐 Frontend	React · Next.js · React Native · Tailwind CSS
+☁️ Cloud & DevOps	AWS · Google Cloud · Docker · Vercel
+🗄️ Databases	PostgreSQL · Supabase · SQLite · PostGIS
+🛠️ Tools	Git · GitHub · VS Code · Claude
 
 </div>
 
-<table>
-<tr>
-<td width="60%" valign="top">
+⸻
 
-```python
-class Nadheem:
-    def __init__(self):
-        self.name = "M. Mohamed Nadheem"
-        self.location = "Pollachi, Coimbatore, India"
-        self.degree = "B.Tech CSE, 2023 – 2027 (Expected)"
-        self.role = "Software Developer — Agentic AI Systems"
+🛠️ Tech Stack
 
-        self.stack = {
-            "languages": ["Python", "TypeScript", "JavaScript", "SQL", "Kotlin"],
-            "agentic_ai": ["AgentScope", "LangGraph", "OpenAI Agents SDK",
-                           "MCP", "RAG", "HITL Workflows"],
-            "voice_ai": ["LiveKit Agents SDK", "SIP/VoIP", "Deepgram"],
-            "backend": ["FastAPI", "Supabase", "PostGIS",
-                        "Google OR-Tools (CP-SAT)"],
-            "frontend": ["React", "Next.js", "React Native", "Tailwind CSS"],
-        }
+Languages
 
-        self.currently_learning = ["Antigravity", "Opencode", "Advanced LangGraph"]
-        self.fun_fact = "I enjoy turning messy multi-step workflows " \
-                         "into clean agent pipelines."
-
-    def motto(self) -> str:
-        return "Build agents that ship, not agents that demo."
-
-
-me = Nadheem()
-print(me.motto())
-```
-
-</td>
-<td width="40%" valign="top">
-<img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-</td>
-</tr>
-</table>
-
-## 🛠️ Tech Stack
-
-**Languages**
-<p> 
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -62,137 +66,148 @@ print(me.motto())
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
 </p>
 
-**AI / Agentic Frameworks**
+AI & Agentic Development
+
 <p>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white"/>
-<img src="https://img.shields.io/badge/xAI%20Grok-000000?style=flat-square&logo=x&logoColor=white"/>
 </p>
 
-**Voice AI**
+Voice AI
+
 <p>
 <img src="https://img.shields.io/badge/LiveKit-FF5F5F?style=flat-square&logo=livekit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logo=deepgram&logoColor=black"/>
-<img src="https://img.shields.io/badge/SIP%2FVoIP-4A90D9?style=flat-square&logo=voip&logoColor=white"/>
+<img src="https://img.shields.io/badge/SIP%2FVoIP-4A90D9?style=flat-square"/>
 </p>
 
-**Backend & Cloud**
+Backend, Cloud & DevOps
+
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 </p>
 
-**Frontend**
+Frontend
+
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
 
-**Databases & Tools**
-<p>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+⸻
+
+🚀 Featured Projects
+
+🖨️ SolvePrint — Cloud Print Queue Platform
+
+A web-based platform designed to simplify document printing workflows.
+
+Built with:
+
+Next.js · React · Tailwind CSS · Supabase · pdf-lib · UPI Payments · Vercel
+
+Highlights
+
+* 📄 PDF upload and document processing
+* 💰 Automatic print-cost estimation
+* 💳 UPI payment integration
+* 📦 Order management and tracking
+* ⚡ Responsive web experience
+
+⸻
+
+🤖 Agentic AI Applications
+
+Exploring and building AI applications around agent orchestration, tool usage, RAG, MCP and intelligent workflows.
+
+Focus areas:
+
+Agentic AI · RAG · MCP · LangGraph · OpenAI Agents SDK
+
+⸻
+
+🎙️ Real-Time Voice AI
+
+Building real-time voice experiences using modern speech and communication technologies.
+
+Technologies:
+
+LiveKit · Deepgram · STT · TTS · SIP / VoIP
+
+⸻
+
+🏅 Achievements & Certifications
+
+<div align="center">
+
+Achievement	Details
+🏆 Cognizant Technoverse Hackathon 2026	Certificate of Participation
+✅ HackerRank	Python · JavaScript · SQL Skill Badges
+🧠 CodeChef	Python Programming Certification
+🤖 CodeChef	Machine Learning Fundamentals Certification
+🐍 CodeChef Roadmap	Python Backend Developer
+🎓 Spoken Tutorial — IIT Bombay	C++ · Advanced C++ · Linux · PostgreSQL · Python · Scilab · ns-3
+
+</div>
+
+⸻
+
+🎓 Education
+
+<div align="center">
+
+Degree	Institution	Duration	Score
+B.Tech — Computer Science & Engineering	B.S. Abdur Rahman Crescent Institute of Science & Technology, Chennai	2023 – 2027	CGPA: 8.67
+
+</div>
+
+⸻
+
+📚 Currently Learning
+
+🤖 Agentic Development    → Modern AI coding & development tools
+🧠 Agent Orchestration    → Advanced LangGraph & multi-agent workflows
+🔊 Voice AI               → LiveKit, STT/TTS & real-time voice systems
+☁️ Cloud & Deployment     → Scalable backend deployment and infrastructure
+
+⸻
+
+💡 Areas of Interest
+
+<p align="center">
+
+Agentic AI   Generative AI   RAG   MCP   Voice AI
+
+Backend Engineering   Cloud Computing   AI Automation
+
 </p>
 
+⸻
+
 <div align="center">
 
-### 📊 GitHub Stats
+🤝 Let’s Connect
 
-<a href="https://github.com/nadheemcr7">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nadheemcr7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+<a href="mailto:mdnadheem7@gmail.com">
+<img src="https://img.shields.io/badge/Email-mdnadheem7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/md-nadheem/">
+<img src="https://img.shields.io/badge/LinkedIn-MD%20Nadheem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/nadheemcr7">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadheemcr7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+<img src="https://img.shields.io/badge/GitHub-nadheemcr7-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<img src="https://streak-stats.demolab.com?user=nadheemcr7&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadheemcr7&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-
-### 🏆 Trophy Wall
-
-<img src="https://github-profile-trophy.vercel.app/?username=nadheemcr7&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
-
-</div>
-
-## 💡 What I Work On
-
-<div align="center">
-
-| Area | Focus |
-|---|---|
-| 🧩 Agent Orchestration | Multi-agent routing, ReAct agents, agent-to-agent handoffs |
-| 🔌 MCP & Tool Integration | Exposing tools/resources so agents can discover and call them at runtime |
-| 📚 RAG Pipelines | Ingestion, chunking, embeddings, vector retrieval for LLM context |
-| 🎙️ Voice AI | Real-time voice calling with speech-to-text / text-to-speech pipelines |
-| 🧾 Document Automation | Templated, multi-format document generation |
-
-</div>
-
-## 🚀 Featured Project
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|---|---|---|
-| **[SolvePrint — Cloud Print Queue Platform](https://github.com/nadheemcr7)** | Next.js 16 · React 19 · Tailwind CSS · Supabase (Auth + RLS) · pdf-lib · UPI Payments · Vercel | PDF upload with automatic cost estimation, UPI QR payments, and real-time order status tracking |
-
-</div>
-
-## 🏅 Achievements
-
-<div align="center">
-
-| | Achievement | Details |
-|---|---|---|
-| 🏆 | Cognizant Technoverse Hackathon 2026 | Certificate of Participation |
-| ✅ | HackerRank Skill Badges | Python (Basic), JavaScript (Basic), SQL (Basic) |
-| 🍫 | CodeChef Certifications | Python Programming, Machine Learning Fundamentals |
-| 🍫 | CodeChef Roadmap | Python Backend Developer — Certificate ID 7507683 |
-| 🎓 | Spoken Tutorial (IIT Bombay) | 7 certifications: C++, Advanced C++, Linux, RDBMS (PostgreSQL), Python 3.4.3, Scilab, ns-3 |
-
-</div>
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| B.Tech — Computer Science & Engineering | B.S. Abdur Rahman Crescent Institute of Science & Technology, Chennai (Vandalur) | 2023 – 2027 (Expected) | CGPA: 8.67 |
-
-</div>
-
-### 📚 Currently Learning
-
-```
-🤖 Agentic Coding Tools   → Antigravity, Opencode, Bolt, Trae AI
-🧠 Agent Orchestration    → Advanced LangGraph patterns, multi-agent handoff design
-🔊 Voice AI               → LiveKit SDK deep-dives, low-latency STT/TTS tuning
-```
-
-<br/>
-
-<div align="center">
-
-📫 **Reach me:** [mdnadheem7@gmail.com](mailto:mdnadheem7@gmail.com) · [LinkedIn](https://www.linkedin.com/in/md-nadheem/) · [GitHub](https://github.com/nadheemcr7)
-
-![Profile Views](https://komarev.com/ghpvc/?username=nadheemcr7&color=70a5fd&style=flat-square)
-
+<img src="https://komarev.com/ghpvc/?username=nadheemcr7&style=flat-square&color=70A5FD&label=Profile+Views"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-
 </div>
