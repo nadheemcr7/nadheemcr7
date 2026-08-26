@@ -10,7 +10,9 @@
 
 </div>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ```python
 class Nadheem:
@@ -18,21 +20,21 @@ class Nadheem:
         self.name = "M. Mohamed Nadheem"
         self.location = "Pollachi, Coimbatore, India"
         self.degree = "B.Tech CSE, 2023 – 2027 (Expected)"
-        self.role = "Software Developer Intern — Agentic AI"
+        self.role = "Software Developer — Agentic AI Systems"
 
         self.stack = {
             "languages": ["Python", "TypeScript", "JavaScript", "SQL", "Kotlin"],
             "agentic_ai": ["AgentScope", "LangGraph", "OpenAI Agents SDK",
                            "MCP", "RAG", "HITL Workflows"],
             "voice_ai": ["LiveKit Agents SDK", "SIP/VoIP", "Deepgram"],
-            "backend": ["FastAPI", "Supabase", "PostGIS", "Deno",
+            "backend": ["FastAPI", "Supabase", "PostGIS",
                         "Google OR-Tools (CP-SAT)"],
             "frontend": ["React", "Next.js", "React Native", "Tailwind CSS"],
         }
 
         self.currently_learning = ["Antigravity", "Opencode", "Advanced LangGraph"]
-        self.fun_fact = "Shipped an orchestration layer, an MCP server, a RAG " \
-                         "pipeline, and a voice AI stack — all in one internship."
+        self.fun_fact = "I enjoy turning messy multi-step workflows " \
+                         "into clean agent pipelines."
 
     def motto(self) -> str:
         return "Build agents that ship, not agents that demo."
@@ -42,7 +44,12 @@ me = Nadheem()
 print(me.motto())
 ```
 
-<br clear="right"/>
+</td>
+<td width="40%" valign="top">
+<img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
@@ -106,7 +113,7 @@ print(me.motto())
 ### 📊 GitHub Stats
 
 <a href="https://github.com/nadheemcr7">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nadheemcr7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nadheemcr7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
 </a>
 <a href="https://github.com/nadheemcr7">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadheemcr7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
@@ -122,50 +129,27 @@ print(me.motto())
 
 </div>
 
-## 💼 Work Experience
+## 💡 What I Work On
 
-<details>
-<summary><b>Software Developer Intern — Agentic AI @ Zoworks Innovations LLP</b> · HSR Layout, Bengaluru, Karnataka</summary>
-<br/>
+<div align="center">
 
-> `AgentScope` `MCP` `PostgreSQL` `OpenAI Agents SDK` `LiveKit` `Deepgram`
+| Area | Focus |
+|---|---|
+| 🧩 Agent Orchestration | Multi-agent routing, ReAct agents, agent-to-agent handoffs |
+| 🔌 MCP & Tool Integration | Exposing tools/resources so agents can discover and call them at runtime |
+| 📚 RAG Pipelines | Ingestion, chunking, embeddings, vector retrieval for LLM context |
+| 🎙️ Voice AI | Real-time voice calling with speech-to-text / text-to-speech pipelines |
+| 🧾 Document Automation | Templated, multi-format document generation |
 
-**Zo Platform — Multi-Agent Orchestration & Workflow Engine**
-- Built a conversational gateway on **AgentScope** that triages WhatsApp/Telegram messages and routes them to specialized ReAct agents with on-the-fly tool binding.
-- Built an **MCP server** exposing internal tools and data resources so agents can securely discover and call them at runtime.
-- Built a **zero-LLM DAG workflow engine** running processes like loan approvals or order dispatch via PostgreSQL RPCs — no LLM call per step.
-- Integrated **"Nanobots"** — async background workers for longer multi-step tasks, gated by human-in-the-loop approval before irreversible actions.
+</div>
 
-**Retrieval-Augmented Generation (RAG) Pipeline**
-- Built the RAG pipeline end-to-end — ingestion, chunking, embedding generation, vector indexing, top-k retrieval — powering the email, document, and field-intelligence agents.
-
-**Real-Time AI Voice Telephony**
-- Set up real-time AI voice calling using **LiveKit** and **SIP (via Vobiz)**, with **Deepgram** for STT/TTS, mid-call transfers, and per-tenant voice persona loading.
-
-**Multi-Agent Customer Support System**
-- Used the **OpenAI Agents SDK** to build triage-based routing with agent-to-agent handoffs and input guardrails for off-topic/jailbreak detection; built a **Next.js** dashboard to visualize agent conversations.
-
-**Multi-Tenant Document Generation Engine**
-- Built a document generation service with sandboxed **Jinja2** templates, a tenant → default → global resolution hierarchy on **Supabase**, and dual output paths: HTML-to-PDF for WhatsApp, ESC/POS for thermal printers.
-
-**Additional Contributions**
-- **Email Processing Pipeline** — autonomous classification, validation, and smart upsert using Gemini, plus a contract-review agent.
-- **NLP-to-SQL Engine** — schema introspection feeding Groq (Llama 3.1) for SQL generation, executed via role-scoped dynamic SQL functions on Supabase Edge Functions.
-- **Workforce Scheduler** — Google OR-Tools CP-SAT solver for skill-matching, availability, and priority-based scheduling.
-- **Resume Screening Pipeline** — NLP parsing, AutoGluon ranking, and an LLM screening agent (xAI/Grok), with a React reviewer dashboard.
-- **Field Service Location App** — cross-platform React Native app with background GPS and offline-first sync (SQLite ↔ Supabase/PostGIS), deployed to Android.
-
-</details>
-
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 <div align="center">
 
 | Project | Stack | Highlights |
 |---|---|---|
 | **[SolvePrint — Cloud Print Queue Platform](https://github.com/nadheemcr7)** | Next.js 16 · React 19 · Tailwind CSS · Supabase (Auth + RLS) · pdf-lib · UPI Payments · Vercel | PDF upload with automatic cost estimation, UPI QR payments, and real-time order status tracking |
-| **Zo Platform — Multi-Agent Orchestration** | AgentScope · MCP · PostgreSQL RPCs · OpenAI Agents SDK | Zero-LLM DAG workflow engine + HITL-gated async workers ("Nanobots") powering production agent routing |
-| **RAG + Voice AI Pipeline** | LiveKit · Deepgram · Vector DB · Supabase | End-to-end RAG (ingestion → embeddings → retrieval) integrated with real-time voice telephony over SIP |
 
 </div>
 
@@ -175,7 +159,6 @@ print(me.motto())
 
 | | Achievement | Details |
 |---|---|---|
-| 💰 | Internship Stipend | ₹10,000/month — Zoworks Innovations LLP |
 | 🏆 | Cognizant Technoverse Hackathon 2026 | Certificate of Participation |
 | ✅ | HackerRank Skill Badges | Python (Basic), JavaScript (Basic), SQL (Basic) |
 | 🍫 | CodeChef Certifications | Python Programming, Machine Learning Fundamentals |
